@@ -29,12 +29,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikakarthii\&show_icons=true\&theme=tokyonight)
+![Karthika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikakarthii&show_icons=true&theme=tokyonight)
 
 ## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=karthikakarthii\&theme=tokyonight)
-
+![Karthika's GitHub Streak](https://streak-stats.demolab.com/?user=karthikakarthii&theme=tokyonight)
 ## 📫 Connect With Me
 
 * 💻 GitHub: [@karthikakarthii](https://github.com/karthikakarthii)
